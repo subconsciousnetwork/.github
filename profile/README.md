@@ -1,6 +1,6 @@
 # Subconscious
 
-**Our mission**: Unstoppable tools for thinking together.
+**Our mission**: tools for thinking together.
 
 We're building:
 
