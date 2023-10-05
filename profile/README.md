@@ -1,8 +1,6 @@
 # Subconscious
 
-**Our mission**: tools for thinking together.
-
-We're building:
+We're building a worldwide decentralized mind.
 
 - Noosphere: a permissionless protocol for thought. Open, decentralized, user-owned.
-- Subconscious: a social notetaking app built on Noosphere.
+- Subconscious: a tool for thinking together, powered by Noosphere.
